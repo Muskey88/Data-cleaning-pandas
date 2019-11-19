@@ -1,0 +1,3 @@
+uuid = "b0000c32-e5ba-48f9-9285-5a2a110339d4"
+name = "Drop NaN columns"
+type = "assignment"

@@ -1,0 +1,3 @@
+uuid = "c5eac0bc-4cd3-4247-9517-73256ae20b28"
+name = "Filter inf NaN Objects"
+type = "assignment"

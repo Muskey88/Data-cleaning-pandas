@@ -1,0 +1,3 @@
+uuid = "894176a6-5919-4420-862b-377ecabe510a"
+name = "Drop rows with nan in column"
+type = "assignment"
