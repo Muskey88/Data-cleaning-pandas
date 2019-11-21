@@ -1,0 +1,3 @@
+uuid = "0c6209ef-74fe-4633-9b32-527b3ea19903"
+name = "Parse invalid numeric columns"
+type = "assignment"

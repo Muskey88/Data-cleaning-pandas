@@ -1,0 +1,3 @@
+uuid = "2bd980e9-2a9e-491f-92dc-a174d1130e25"
+name = "Count NaN objects"
+type = "assignment"
